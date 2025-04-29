@@ -73,6 +73,7 @@ def download_nltk_data():
     nltk.download("punkt")
     nltk.download("stopwords")
     nltk.download("wordnet")
+    nltk.download("punkt_tab")
 
 download_nltk_data()
 
