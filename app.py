@@ -61,7 +61,7 @@ st.markdown(page_bg, unsafe_allow_html=True)
 st.markdown("""
 <div style='text-align: center; margin-top: -40px; margin-left:20px;'>
     <img src='https://cdn-icons-png.flaticon.com/512/561/561127.png' width='120' style='margin-bottom: 10px;'>
-    <h1 style='font-size: 3em; margin-left:20px'>SpamShield 🚀</h1>
+    <h1 style='font-size: 3em;'>SpamShield 🚀</h1>
     <h3 style='margin-top: -10px;'>Your Ultimate Email Spam Detector</h3>
 </div>
 """, unsafe_allow_html=True)
